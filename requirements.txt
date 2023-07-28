@@ -5,7 +5,7 @@ ccxt
 elegantrl
 
 # market data & paper trading API
-exchange_calendars
+exchange_calendars==3.6.3
 gputil
 gym>=0.17 #gym==0.24.1
 jqdatasdk
